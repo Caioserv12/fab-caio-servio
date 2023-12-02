@@ -3,10 +3,10 @@
 
 
     <agent img="2.png" x="0" y="0" height="100" width="100"/>
-    <agent img="2.png" x="90" y="0" height="100" width="100"/>
+    <agent img="2.png" x="100" y="0" height="100" width="100"/>
     <agent img="2.png" x="190" y="0" height="100" width="100"/>
     <agent img="2.png" x="290" y="0" height="100" width="100"/>
-    <agent img="2.png" x='' 
+    <agent img="2.png" x="390" y="0" height="100" width="100"/> 
     
   </page>
 </fable>
