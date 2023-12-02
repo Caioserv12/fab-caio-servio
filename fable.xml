@@ -21,6 +21,7 @@
     <agent img="2.png" x="300" y="0" height="100" width="100"/>
     <agent img="2.png" x="400" y="0" height="100" width="100"/>
     <agent img="Idle (1).png" x="100" y="85" height="100" width="100"/>
+    <agent img="" x="270" y="90" height="100" width="100"/>
     
     
     
