@@ -9,7 +9,7 @@
     <agent img="chao_floresta.png" x="390" y="0" height="100" width="100" />
     <agent img="chao_floresta.png" x="400" y="0" height="100" width="100" />
     <agent img="protagonista_parado.png" x="100" y="85" height="100" width="100" />
-    <agent img=x="250" y="90" height="70" width="70" />
+    <agent img="Grass(1).png"x="250" y="90" height="70" width="70" />
   
     <agent text="Era uma vez..." font-size="22" color="blue" x="40" y="350" width="500" height="100"/>
     
