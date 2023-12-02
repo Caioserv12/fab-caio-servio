@@ -1,5 +1,5 @@
 <fable>
-    <page background="bg.png" soundtrack="audio.png">
+    <page background="bg.png" soundtrack="Fear.mp3">
 
 
     <agent img="2.png" x="0" y="0" height="100" width="100"/>
@@ -10,7 +10,7 @@
     <agent img="Idle (1).png" x="100" y="85" height="100" width="100"/>
     <agent img="Grass (1).png" x="270" y="90" height="100" width="100"/>
     <agent text="Havia uma vez, em um deserto vasto e escaldante, um corajoso cavaleiro chamado Sir Peter. Ele era conhecido por sua destreza com a espada e sua coragem inabalável." font-size="20" color="blue" x="40" y="350" height="100" width="420"/>
-    <agent img="Sign_2.png" x="425" y="90" height="60" width="60"
+    <agent img="Sign_2.png" x="425" y="90" height="60" width="60" 
         
     
   </page>
