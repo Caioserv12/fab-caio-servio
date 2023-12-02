@@ -1,5 +1,5 @@
 <fable>
-	<page background="bg.png" soundtrack="song.wav">
+	<page background="bg.png" soundtrack="">
   	
     
     <agent img="2.png" x="0" y="0" height="100" width="100" />
