@@ -2,7 +2,7 @@
     <page background="bg.png" soundtrack="Fear.mp3">
 
 
-    <agent img
+    <agent img="2.png" x="0" y="0" height
   
     
   </page>
