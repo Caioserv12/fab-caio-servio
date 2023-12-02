@@ -3,7 +3,7 @@
   	
     
     <agent img="2.png" x="0" y="0" height="100" width="100" />
-    <agent img=""chaox="90" y="0" height="100" width="100" />
+    <agent img=""chx="90" y="0" height="100" width="100" />
     <agent img="chao_floresta.png" x="190" y="0" height="100" width="100" />
     <agent img="chao_floresta.png" x="290" y="0" height="100" width="100" />
     <agent img="chao_floresta.png" x="390" y="0" height="100" width="100" />
