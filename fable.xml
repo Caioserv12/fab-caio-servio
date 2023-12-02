@@ -31,6 +31,8 @@
     <agent img="chao_neve.png" x="0" y="0" height="100" width="100"/>
     <agent img="chao_neve.png" x="100" y="0" height="100" width="100"/>
     <agent img="chao_neve.png" x="200" y="0" height="100" width="100"/>
+    <agent img="chao_neve.png" x="300" y="0" height="100" width="100"/>
+    
     
     
     
