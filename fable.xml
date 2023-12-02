@@ -24,7 +24,10 @@
     <agent img="Attack (1).png" x="270" y="90" height="100" width="100"/>
     <agent text="Um dia,enquanto cavalgava através das dunas intermináveis,deparou-se com um Monstro terrivel.Uma batalha feroz desenrolou-se sob o sol impiedoso do deserto,com espadas reluzentes cortando o ar quente." font-size="20" color="blue" x="40" y="350" height="100" width="0"/>
     <agent img="Sign_2.png" x="425" y="90" height="60" width="60" on-touch="_NEXT_PAGE"/>
-    
+
+</page>
+
+<page background=
     
     
     
