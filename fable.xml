@@ -28,7 +28,7 @@
 </page>
 
 <page background="bg_neve.png" soundtrack="Fear.mp3">
-    <agent img="" x="0" y="0" height="100" width="100" on-touch="_NEXT_PAGE"/>
+    <agent img="" x="0" y="0" height="100" width="100"/>
     
     
     
