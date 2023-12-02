@@ -35,7 +35,7 @@
     <agent img="chao_neve.png" x="400" y="0" height="100" width="100"/>
     <agent img="Idle (1).png" x="100" y="85" height="100" width="100"/>
     <agent img="princesa.png" x="270" y="95" height="100" width="100"/>
-    <agent text="Sir Peter emergiu vitorioso, desapareceu nas sombras da areia ardent, cavaleiro continuou sua jornada. Entretanto, a história não terminou ali. À medida que Sir Galahad continuava sua busca por aventuras, ele se viu em uma terra completamente diferente, agora com um novo amor." font-size="20" color="yellow" x="40" y="350" height="100" width="0"/>
+    <agent text="Sir Peter emergiu vitorioso e o monstro desapareceu nas sombras da areia ardente, assim o cavaleiro continuou sua jornada. Entretanto, a história não terminou ali. À medida que Sir Peter continuava sua busca por aventuras, ele se viu em uma terra completamente diferente, agora com um novo amor." font-size="20" color="yellow" x="40" y="350" height="100" width="0"/>
     <agent text="FIM" font-size="30" color="brown" x="35" y="150" height="85" width="0"
     
     
